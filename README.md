@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**thierrysantos/thierrysantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Thierry. I'm a Software Engineer living around the world 🌎.
 
-Here are some ideas to get you started:
+Currently I work as a Software Engineer at [Pagar.me](https://pagar.me).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Former Software Engineer at [SkyOne.Solutions](https://skyone.solutions/en/).
+
+## Things I'm focusing now
+
+### 👨🏽‍💻 Work</summary>
+
+In working hours, I focus in delivering solutions to problems.
+
+I'm being challenged everyday.
+
+Hopefully it means I'm growing 😃📈
+
+### 📖  Learning and Development
+
+Currently I'm learning how I could be a better person and professional
+
+Follow me on:
+
+[Hackerrank](https://www.hackerrank.com/thierrysantos)
+[Linkedin](https://www.linkedin.com/in/thierrysantos/)
+[Twitter](https://twitter.com/_thierrysantos)
