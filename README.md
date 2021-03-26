@@ -2,7 +2,7 @@
 
 My name is Thierry. I'm a Software Engineer living around the world 🌎.
 
-Currently I work as a Software Engineer at [Pagar.me](https://pagar.me).
+Currently I work as a Software Engineer at [Pagar.me](https://github.com/pagarme).
 
 Former Software Engineer at [SkyOne.Solutions](https://skyone.solutions/en/).
 
